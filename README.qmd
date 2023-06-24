@@ -1,0 +1,2 @@
+## README
+This is a project built in R-studio using Quarto. It should render into a functioning website for the Jones, Silas & Ward Lab - a Cognitve Neuroscience Lab at Middlesex University. 
