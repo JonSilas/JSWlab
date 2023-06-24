@@ -1,0 +1,37 @@
+Some random pictures of #LabLife collected over the years.
+
+::: {layout-ncol="3"}
+![Science!](lablife/Science.jpeg)
+
+![Emma & Maryam at a conference](lablife/EmmaConf.jpeg)
+
+![Piloting and more piloting](lablife/InLab.jpeg)
+
+![Emma representing](lablife/EmmaPanel.jpeg)
+
+![Lab lunch in the park cafe](lablife/LabLunch.jpeg)
+
+![Wayne's first paper!](lablife/tACSpaper.jpeg)
+
+![Training the new recruits](lablife/Lianne.jpeg)
+
+![Anual lab BBQ](lablife/labBBQ.jpeg)
+
+![Catching up at BACN](lablife/BACNlunch.jpeg)
+
+![The dynamic duo](lablife/JAtalk.jpeg)
+
+![Putting the lab together](lablife/BuildingLab.jpg)
+
+{{< video https://youtu.be/ZScEatoiN8M >}}
+
+![Xmas lab dinner](lablife/xmas.jpg)
+
+![Why do they make us wear this?!](lablife/stupid.jpg)
+
+![This is normal... right?](lablife/normal.jpg)
+
+![Testing at the Science Museum](lablife/ScienceMuseum.jpg)
+
+![At CNS!](lablife/CNS.jpg)
+:::

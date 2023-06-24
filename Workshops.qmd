@@ -1,0 +1,47 @@
+![](images/workshop.png)
+
+Alex and Jon run bespoke EEG workshops tailored to fit the needs of attendees. We've successfully run several in the past the details or which can be found below. We have broad experience in a number of EEG systems and analysis techniques.
+
+If you'd like us to run a workshop for your lab, group or company please [get in touch](ContactUs.qmd)
+
+-   Standard attendee: £700
+-   Student/post-doc: £350
+
+## Expertise
+
+Between us we experience in using the following EEG systems for data collection:
+
+-   [Brain Products](https://www.brainproducts.com/index.php)
+-   [BioSemi](https://www.biosemi.com/)
+-   [Electrical Geodesics Inc. ](https://www.egi.com/)
+-   [Neuroscan](http://compumedicsneuroscan.com/)
+
+We are also have experience in the following analysis softwares:
+
+-   [BESA](http://www.besa.de/)
+-   [Brain Vision Analyzer ](http://www.brainproducts.com/downloads.php?kid=9)
+-   Neuroscan -- Edit
+
+## Previous Workshop Example
+
+![](images/workshop2019.png)
+
+## Testemonials
+
+::: {.callout-caution icon="false"}
+# "The EEG training Workshop was professionally delivered in a relaxed and welcoming atmosphere. The workshop exceeded my expectations both in terms of content and process."
+
+Dr Anastasia Giannakopoulou, Lecturer in Psychology, University of Bedfordshire
+:::
+
+::: {.callout-tip icon="false"}
+# "Psychology at Middlesex University provided an extremely useful EEG training experience which was the perfect mix between theory and hands-on application of the hardware and software necessary to conduct experiments on event-related potential."
+
+Dr William M Brown, Senior Lecturer in Psychology, University of Bedfordshire
+:::
+
+::: {.callout-important icon="false"}
+# "I thoroughly enjoyed the workshop and was made to feel very welcome by Alex. In addition I was quite impressed by their EEG lab."
+
+Paul Cavendish, Lab Manager
+:::
