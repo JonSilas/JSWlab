@@ -10,6 +10,8 @@ website:
     tools: 
       - icon: twitter
         href: https://twitter.com/jones_silas_lab
+      - icon: github
+        href: https://github.com/JonSilas/JSWlab 
     left:
       - href: index.qmd
         text: Home
