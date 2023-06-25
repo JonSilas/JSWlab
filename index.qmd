@@ -1,3 +1,0 @@
-::: column-screen-inset
-[![](images/JonesSilasWardLab_logo.png){fig-align="center"}](about.qmd)
-:::
