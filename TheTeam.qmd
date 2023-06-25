@@ -1,0 +1,75 @@
+---
+fig-cap-location: bottom
+---
+
+## Staff members
+
+::: {layout-ncol="3"}
+![Alex Jones](images/Alex.png)
+
+![Jon Silas](images/Jon.png)
+
+![Emma Ward](images/Emma.png)
+:::
+
+## PhD students
+
+::: {layout="[20,80]"}
+![Wayne Anderson](images/Wayne.png){fig-align="left" width="100"}
+
+**Wayne Anderson** \| Wayne is investigating the role of phase - in the brain and in the environment - and the role that phase plays in attention. Wayne is using a mixture of methods including non-invasive brain stimulation, EEG and behaviour.
+
+![Lola Zao-Sanders](images/Lola.png){fig-align="left" width="100"}
+
+**Lola Zao-Sanders** \| Lola is investigating embodied cognition and is particularly interested in the role of emobidied cognition in perspective taking. Lola is using a mixture of methods including non-invasive brain stimulation, EEG and behaviour.
+:::
+
+## MSc by Research Students
+
+::: {layout="[20,80]"}
+Jennifer Chacon
+
+Studying the role socail media plays in affecting our attention.
+
+Tasneem Akbar
+
+Studying tactile attention in an ADHD population.
+
+![Vanessa Simoes](images/Vanessa.jpeg){fig-align="left" width="100"}
+
+Vanessa Simoes \| Studying tactile perception in virtual reality.
+:::
+
+## Interns and Assistants
+
+Alesia Cyrbja
+
+Bobbie Maria Gallagher
+
+## Alumni
+
+Maryam Al-Abdulla (PhD Memory and Ageing)
+
+Petter Moller (MSc by Research in Cognitive Neuroscience)
+
+Maciej Malinowski (MSc by Research in Cognitive Neuroscience)
+
+Nicola Lloyd (MSc by Research in Cognitive Neuroscience)
+
+Themis Efthimiou (MSc by Research in Cognitive Neuroscience)
+
+Nimat Ahmed (intern)
+
+Jack Moore (RA)
+
+Arianna Amoroso (Dissertation project student & RA)
+
+Joanna Szymczak (Dissertation project student & RA)
+
+Enida Csiszer (Dissertation project student & RA)
+
+Berivan Oztas (Dissertation project student)
+
+Anthony Tipple (PhD student & RA)
+
+Oriane Chene (intern, MSc Biosciences, ENS de Lyon)

@@ -1,0 +1,13 @@
+During the pandemic Alex and Jon recorded a number of videos in place of the practical component for their third 
+year optional module 'How to Do Cognitive Neuroscience' - these are below and hopefully helpful to someone. 
+
+## EEG Demo
+{{< video https://youtu.be/zOBRdviUDdQ >}}
+
+## Transcranial Magnetic Stimulation Demo
+{{< video https://youtu.be/gF87592DfTM >}}
+
+## Transcranial Electrical Stimulation Demo
+{{< video https://youtu.be/7w_mkKv79as >}}
+
+

@@ -1,0 +1,20 @@
+You can reach out to any of the PIs directly via email:
+
+-   Alex - [a.j.jones\@mdx.ac.uk](mailto:a.j.jones@mdx.ac.uk){.email}
+-   Jon - [j.e.silas\@mdx.ac.uk](mailto:j.e.silas@mdx.ac.uk){.email}
+-   Emma - [e.ward\@mdx.ac.uk](mailto:e.ward@mdx.ac.uk){.email}
+
+Or email [all three of us at once](mailto:a.j.jones@mdx.ac.uk;%20j.e.silas@mdx.ac.uk;e.ward@mdx.ac.uk){.email} for your best chance of getting a speedy response.
+
+![](images/Mdx.png){fig-align="center" height="400"}
+
+We are located at Middlesex Universty, The Burroughs, London NW4 4BT. [Information on travel](https://unihub.mdx.ac.uk/campus/hendon), if you are planning a visit.
+
+```{r, echo=FALSE, warning=FALSE}
+#| column: screen
+
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=-0.22870009483789078, lat=51.58916499649419, popup="Jones, Silas & Ward Lab")
+```

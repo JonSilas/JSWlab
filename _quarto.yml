@@ -1,0 +1,49 @@
+project:
+  type: website
+
+website:
+  favicon: images/icon.ico
+  title: "Jones, Silas & Ward Lab"
+  navbar:
+    background: primary
+    foreground: "white"
+    tools: 
+      - icon: twitter
+        href: https://twitter.com/jones_silas_lab
+      - icon: github
+        href: https://github.com/JonSilas/JSWlab 
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "About"  
+        menu: 
+          - href: about.qmd
+            text: The Lab
+          - href: TheTeam.qmd
+            text: The Team
+          - href: LabLife.qmd
+            text: "#LabLife"
+      - href: JoinTheLab.qmd
+        text: Join
+      - href: TakePart.qmd
+        text: Participate
+      - href: Teaching.qmd
+        text: Talks
+      - href: Workshops.qmd
+        text: Workshops
+      - href: Publications.qmd
+        text: Publications        
+      - href: ContactUs.qmd 
+        text: Contact Us
+format:
+  html:
+    theme: cyborg
+    backgroundcolor: black
+    css: styles.css
+    toc: true
+
+
+
+
+editor: visual
+
