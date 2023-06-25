@@ -26,7 +26,7 @@ We are also have experience in the following analysis softwares:
 
 ![](images/workshop2019.png)
 
-## Testemonials
+## Testimonials
 
 ::: {.callout-caution icon="false"}
 # "The EEG training Workshop was professionally delivered in a relaxed and welcoming atmosphere. The workshop exceeded my expectations both in terms of content and process."
