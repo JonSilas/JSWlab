@@ -27,9 +27,9 @@ fig-cap-location: bottom
 ## MSc by Research Students
 
 ::: {layout="[20,80]"}
-Jennifer Chacon
+![Jennifer Chacon](images/Jennifer.png){fig-align="left" width="100"}
 
-Studying the role socail media plays in affecting our attention.
+Studying the role social media plays in affecting our attention.
 
 Tasneem Akbar
 
