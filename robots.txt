@@ -1,1 +1,1 @@
-Sitemap: https://JonSilas.github.io/JSWlab/sitemap.xml
+Sitemap: https://jswlab.co.uk/sitemap.xml
