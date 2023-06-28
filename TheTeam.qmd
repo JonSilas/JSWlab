@@ -31,7 +31,7 @@ fig-cap-location: bottom
 
 Studying the role social media plays in affecting our attention.
 
-Tasneem Akbar
+![Tasneem Akbar](images/Tasneem.jpg){fig-align="left" width="100"}
 
 Studying tactile attention in an ADHD population.
 
