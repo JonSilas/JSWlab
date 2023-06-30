@@ -29,7 +29,7 @@ fig-cap-location: bottom
 ::: {layout="[20,80]"}
 ![Jennifer Chacon](images/Jennifer.png){fig-align="left" width="100"}
 
-Studying the role socail media plays in affecting our attention.
+Studying the role social media plays in affecting our attention.
 
 ![Tasneem Akbar](images/Tasneem.jpg){fig-align="left" width="100"}
 
@@ -37,7 +37,7 @@ Studying tactile attention in an ADHD population.
 
 ![Vanessa Simoes](images/Vanessa.jpeg){fig-align="left" width="100"}
 
-Vanessa Simoes \| Studying tactile perception in virtual reality.
+Studying tactile perception in virtual reality.
 :::
 
 ## Interns and Assistants
