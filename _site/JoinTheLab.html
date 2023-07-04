@@ -182,15 +182,15 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="phd" class="level2">
 <h2 class="anchored" data-anchor-id="phd">PhD</h2>
-<p>Alex, Jon and Emma have all supervised a number of PhD students to completion and welcome any interest in completing doctoral research in the lab. Please check out our publications and specific interests to see if they fit with your goals and then get in touch - we’re always happy to have a chat about potential projects and collaborations. Sadly, Middlesex don’t offer anything in the way of a bursary - and we don’t currently have external funding for PhD students, this means you’d need to self fund. We’re doing our best to change this and when we have funds available to us we’ll be load about it!</p>
+<p>Alex, Jon and Emma have all supervised a number of PhD students to completion and welcome any interest in completing doctoral research in the lab. Please check out our publications and specific interests to see if they fit with your goals and then get in touch - we’re always happy to have a chat about potential projects and collaborations. Sadly, Middlesex don’t offer anything in the way of a bursary - and we don’t currently have external funding for PhD students, this means you’d need to self fund. We’re doing our best to change this and when we have funds available to us we’ll be loud about it!</p>
 </section>
 <section id="taught-programmes" class="level2">
 <h2 class="anchored" data-anchor-id="taught-programmes">Taught Programmes</h2>
-<p>Alex and Jon designed and lead the MSc in Cognitive and Clinical Neuroscience at Middlesex University. As well as overseeing the programme they teach a core module and lead most of the dissertation projects. Alex, Jon &amp; Emma also lead a number of core modules associated with undergraduate programmes in the [Psychology department at. Middlesex university] (https://www.mdx.ac.uk/courses/psychology). If you’re an undergraduate Psychology student at Middlesex - Emma’s final year optional module on Memory is highly recomended. You are welcome to apply to any taught programme without reaching out to us first, but if you do have any questions feel free to get in touch.</p>
+<p>Alex and Jon designed and lead the MSc in Cognitive and Clinical Neuroscience at Middlesex University. As well as overseeing the programme they teach a core module and lead most of the dissertation projects. Alex, Jon &amp; Emma also lead a number of core modules associated with undergraduate programmes in the <a href="https://www.mdx.ac.uk/courses/psychology">Psychology department at. Middlesex university</a>. If you’re an undergraduate Psychology student at Middlesex - Emma’s final year optional module on Memory is highly recomended. You are welcome to apply to any taught programme without reaching out to us first, but if you do have any questions feel free to get in touch.</p>
 </section>
 <section id="msc-cognitve-clinical-neuroscience" class="level2">
 <h2 class="anchored" data-anchor-id="msc-cognitve-clinical-neuroscience">MSc Cognitve &amp; Clinical Neuroscience</h2>
-<p>Our MSc in Cognitive &amp; Clinical Neuroscience has been running since October 2022 and we are proud to offer a unique blend of experimental, clinical, practical and theoretical approaches to learning about Neuroscience. Whilst we lead the module we have borrowed on expertise from our colleagues in both Psychology and Natural sciences departments to offer a real blend of cognitive and clinical neuroscience. [Application can be made directly to the university] (https://www.mdx.ac.uk/study-with-us/postgraduate/apply-for-taught-courses) but feel free to contact us if you have any questions.</p>
+<p>Our MSc in Cognitive &amp; Clinical Neuroscience has been running since October 2022 and we are proud to offer a unique blend of experimental, clinical, practical and theoretical approaches to learning about Neuroscience. Whilst we lead the module we have borrowed on expertise from our colleagues in both Psychology and Natural sciences departments to offer a real blend of cognitive and clinical neuroscience. <a href="https://www.mdx.ac.uk/study-with-us/postgraduate/apply-for-taught-courses">Application can be made directly to the university</a> but feel free to contact us if you have any questions.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><a href="https://www.mdx.ac.uk/courses/postgraduate/cognitive-neuroscience-research"><img src="images/MScCCN.png" class="img-fluid figure-img"></a></p>
@@ -436,6 +436,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->

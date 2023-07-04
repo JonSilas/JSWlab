@@ -37,6 +37,7 @@ website:
         text: Contact Us
 format:
   html:
+    link-external-newwindow: true
     theme: cyborg
     backgroundcolor: black
     css: styles.css
