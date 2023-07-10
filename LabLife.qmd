@@ -1,6 +1,8 @@
 Some random pictures of #LabLife collected over the years.
 
 ::: {layout-ncol="3"}
+![Newest member of the lab! Congratulations Emma](lablife/baby.jpg)
+
 ![Science!](lablife/Science.jpeg)
 
 ![Emma & Maryam at a conference](lablife/EmmaConf.jpeg)
