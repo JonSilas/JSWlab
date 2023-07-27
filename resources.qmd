@@ -1,0 +1,6 @@
+:::{#fig}
+
+[![](images/Dbee.png)](https://jonsilas.quarto.pub/designing-building-and-explaining-an-experiment/)
+[A brief course forming part of our MSc module aimed at introducing you to PsychoPy, click the caption or the picture](https://jonsilas.quarto.pub/designing-building-and-explaining-an-experiment/)
+
+::: 
