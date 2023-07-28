@@ -15,8 +15,6 @@ website:
       - icon: mastodon
         href: https://fediscience.org/@JSW_lab 
     left:
-      - href: index.qmd
-        text: Home
       - text: "About"  
         menu: 
           - href: about.qmd
