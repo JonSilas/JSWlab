@@ -31,5 +31,14 @@
   },
   "resources.qmd": {
     "resources.html": "ae629d3b"
+  },
+  "courses.qmd": {
+    "courses.html": "f1271b57"
+  },
+  "poster.qmd": {
+    "poster.html": "493c995f"
+  },
+  "Videos.qmd": {
+    "Videos.html": "62e82c22"
   }
 }

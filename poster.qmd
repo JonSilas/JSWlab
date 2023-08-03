@@ -1,0 +1,23 @@
+## Talks
+Click link to download pdf of slides.
+
+[Jon & Alex's talk to the University of the Third Age - 2022](talks/U3A2022.pdf) 
+
+[Jon & Alex's second year lecture on EEG - 2022](talks/EEGandID2022.pdf) 
+
+
+## Posters 
+Click the image to download a pdf of the poster.
+
+:::{layout=[30,-5,30,-5,30] layout-valign="bottom"}
+
+[![Temporal and Spatial Attention Improve Recognition - BACN 2019](posters/Jones&Ward2019BACN.jpg)](posters/Jones&Ward2019BACN.pdf)
+
+[![Rhythmic encoding improves recognition memory - CNS 2019](posters/Jones&Ward2019CNS.jpg)](posters/Jones&Ward2019CNS.pdf)
+
+[![Successful Classification of Attentional Tasks by Power Modulations in the Alpha Frequency Bandwidth - CNS 2019](posters/Silas2019CNS.jpg)](posters/Silas2019CNS.pdf)
+
+[![Exploring the role of spatial attention in Movement simulation - CNS 2019](posters/SilasBACN2019.jpg)](posters/SilasBACN2019.pdf)
+
+[![Responsivity of a human mirror neuron system to the transitivity of an action when the end result of a movement is visible but not when it is obscured - CNS 2018](posters/Silas2018CNS.jpg)](posters/Silas2018CNS.pdf)
+::: 

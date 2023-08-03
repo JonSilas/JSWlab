@@ -27,12 +27,14 @@ website:
         text: Join
       - href: TakePart.qmd
         text: Participate
-      - text: "Teaching"
+      - text: "Resources"
         menu: 
-        - href: Teaching.qmd
-          text: Talks
-        - href: resources.qmd
-          text: Resources
+        - href: Videos.qmd
+          text: Videos
+        - href: courses.qmd
+          text: Online Materials
+        - href: poster.qmd
+          text: Talks & Posters
       - href: Workshops.qmd
         text: Workshops
       - href: Publications.qmd
