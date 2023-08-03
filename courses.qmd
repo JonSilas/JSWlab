@@ -1,0 +1,6 @@
+**Click the image to access the resource**  
+
+:::{layout-ncol=3}
+
+[![](images/Dbee.png)](https://jonsilas.quarto.pub/designing-building-and-explaining-an-experiment/)
+::: 
