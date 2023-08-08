@@ -2,7 +2,6 @@ project:
   type: website
 
 website:
-  google-analytics: "UA-28078594-1"
   favicon: images/icon.ico
   title: "Jones, Silas & Ward Lab"
   navbar:
@@ -49,7 +48,8 @@ format:
     backgroundcolor: black
     css: styles.css
     toc: true
-
+    include-in-header: gtm_code_head.html
+    include-before-body: gtm_code_body.html
 resources:
   - CNAME
 
