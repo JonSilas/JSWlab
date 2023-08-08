@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  google-analytics: "UA-28078594-1"
   favicon: images/icon.ico
   title: "Jones, Silas & Ward Lab"
   navbar:
