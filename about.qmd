@@ -2,7 +2,6 @@
 about:
   template: trestles
   image: images/JSW_logo1.png
-  image-shape: "round"
 ---
 
 The Jones, Silas & Ward Lab are a group of researchers at the [Middlesex University, Psychology department](https://www.mdx.ac.uk/about-us/what-we-do/faculty-of-science-and-technology/psychology), whose primary interests are in the field of cognition and cognitive neuroscience.
