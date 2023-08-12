@@ -2,6 +2,8 @@ project:
   type: website
 
 website:
+  google-analytics:
+    tracking-id: "G-LML37CZLQM"
   favicon: images/icon.ico
   title: "Jones, Silas & Ward Lab"
   navbar:
@@ -48,8 +50,7 @@ format:
     backgroundcolor: black
     css: styles.css
     toc: true
-    include-in-header: gtm_code_head.html
-    include-before-body: gtm_code_body.html
+
 resources:
   - CNAME
 
