@@ -1,6 +1,8 @@
 ## Talks
 Click link to download pdf of slides.
 
+[Jon & Alex's talk to BACN - 2023 Spatial attention not affected by tACS: a registered report](talks/BACN23.pdf)
+
 [Jon & Alex's talk to the University of the Third Age - 2022](talks/U3A2022.pdf) 
 
 [Jon & Alex's second year lecture on EEG - 2022](talks/EEGandID2022.pdf) 
@@ -9,7 +11,10 @@ Click link to download pdf of slides.
 ## Posters 
 Click the image to download a pdf of the poster.
 
-:::{layout=[30,-5,30,-5,30] layout-valign="bottom"}
+:::{layout=[30,-5,30,-5,30] layout-valign="top"}
+
+[![Dissociating temporal position and rhythm – effects on memory encoding
+- A Registered Report](posters/Jones2023BACN.jpg)](posters/Jones2023BACN.pdf)
 
 [![Temporal and Spatial Attention Improve Recognition - BACN 2019](posters/Jones&Ward2019BACN.jpg)](posters/Jones&Ward2019BACN.pdf)
 
