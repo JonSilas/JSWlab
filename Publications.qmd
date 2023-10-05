@@ -1,11 +1,19 @@
 ---
 toc: false
 ---
-Google Scholar links: [Alex](https://scholar.google.co.uk/citations?user=heLtmbIAAAAJ&hl=en), [Emma](https://scholar.google.co.uk/citations?user=Rvu7U18AAAAJ&hl=en&oi=ao), [Jon](https://scholar.google.co.uk/citations?user=mMkcfasAAAAJ&hl=en)  
+Google Scholar links: [Alex](https://scholar.google.co.uk/citations?user=heLtmbIAAAAJ&hl=en),  [Jon](https://scholar.google.co.uk/citations?user=mMkcfasAAAAJ&hl=en), [Emma](https://scholar.google.co.uk/citations?user=Rvu7U18AAAAJ&hl=en&oi=ao)  
 
 ## Papers and chapters
 
 ### 2023
+
+**Jones, A., Silas, J., Anderson, W. &  Ward, E. V.** (2023). Null effects of temporal prediction on recognition memory but evidence for differential neural activity at encoding. A registered report, Cortex, ISSN 0010-9452 <https://doi.org/10.1016/j.cortex.2023.09.006.>
+
+Korko, M., Coulson, M., **Jones, A.**, & de Mornay Davies, P. (2023). The many facets of inhibitory control and their role in syntactic selection. Language and Cognition, 1-27.<https://doi.org/10.1017/langcog.2023.44>
+
+Ali, S. M., Augusto, J. C., Windridge, D., & **Ward, E.** (2023). A user-guided personalization methodology to facilitate new smart home occupancy. Universal Access in the Information Society, 22(3), 869-891.<https://doi.org/10.1007/s10209-022-00883-x>
+
+Mangiacotti, A., Cipriani, G., **Ward, E.,** Franco, F., & Biasutti, M. (2023). Development and validation of the Music Cognitive Test: A music-based cognitive screening test. Psychology of Music, 51(2), 373-394.<https://doi.org/10.1177/03057356221100851>
 
 **Silas, J., Jones, A.,** Yarrow, K., & **Anderson, W.** (2023). Spatial attention is not affected by alpha or beta transcranial alternating current stimulation: A registered report. Cortex, 164, 33-50.<https://doi.org/10.1016/j.cortex.2023.03.011>
 
