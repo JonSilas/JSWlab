@@ -4,9 +4,6 @@ Alex and Jon run bespoke EEG workshops tailored to fit the needs of attendees. W
 
 If you'd like us to run a workshop for your lab, group or company please [get in touch](ContactUs.qmd)
 
--   Standard attendee: £700
--   Student/post-doc: £350
-
 ## Expertise
 
 Between us we experience in using the following EEG systems for data collection:

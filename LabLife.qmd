@@ -1,6 +1,10 @@
 Some random pictures of #LabLife collected over the years.
 
 ::: {layout-ncol="3"}
+![Old and new friends at BACN 2023](lablife/dinner23.jpg)
+
+![Dynamic duo - presenting at BACN 2023](lablife/BACN23.jpg)
+
 ![Newest member of the lab! Congratulations Emma](lablife/baby.jpg)
 
 ![Science!](lablife/Science.jpeg)
