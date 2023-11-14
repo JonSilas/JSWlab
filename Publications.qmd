@@ -7,6 +7,8 @@ Google Scholar links: [Alex](https://scholar.google.co.uk/citations?user=heLtmbI
 
 ### 2023
 
+**Jones, A.**, Gandhi, V., Mahiddine, A. Y., & Huyck, C. (2023). Bridging Neuroscience and Robotics: Spiking Neural Networks in Action. Sensors, 23(21), 8880.<https://doi.org/10.3390/s23218880>
+
 **Jones, A., Silas, J., Anderson, W. &  Ward, E. V.** (2023). Null effects of temporal prediction on recognition memory but evidence for differential neural activity at encoding. A registered report, Cortex, ISSN 0010-9452 <https://doi.org/10.1016/j.cortex.2023.09.006>
 
 Korko, M., Coulson, M., **Jones, A.**, & de Mornay Davies, P. (2023). The many facets of inhibitory control and their role in syntactic selection. Language and Cognition, 1-27.<https://doi.org/10.1017/langcog.2023.44>
