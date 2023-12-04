@@ -24,6 +24,21 @@ Our MSc in Cognitive & Clinical Neuroscience has been running since October 2022
 
 [![](images/MScCCN.png)](https://www.mdx.ac.uk/courses/postgraduate/cognitive-neuroscience-research)
 
+
+### Testimonials
+
+::: {.callout-caution icon="false"}
+# "Jon and Alex made my MSc journey feel like learning from peers rather than just course tutors. Their personal touch and enthusiasm turned lectures into conversations – couldn't have asked for better mentors!” 
+
+ M. Seereekissoon, MSc Cognitive and Clinical Neuroscience 2023 graduate. 
+:::
+
+::: {.callout-tip icon="false"}
+# "This program had a great balance of lectures and hands on learning opportunities. Jon and Alex are warm and fun and made us feel competent in the program. You can tell that they genuinely want us to succeed."
+
+O. Eshete, MSc Cognitive and Clinical Neuroscience 2023 graduate. 
+:::
+
 ## Research Assisstants and Internships
 
 We aren't currently hiring any assistants but keep an eye on our twitter feed - if we get any funding we're usually quite vocal about it! If you want to complete a voluntary internship as part of a higher education programme we've had great success with this in the pass so [get in touch](ContactUs.qmd) and we'll see what we can set up.
