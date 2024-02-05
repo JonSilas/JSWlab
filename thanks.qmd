@@ -1,0 +1,24 @@
+---
+format: html
+toc: false
+css: styles.css
+---
+
+```{=html}
+<style>
+  body {
+  background-image: url("images/eeg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+
+</style>
+```
+# Thanks for signing up! {.centerh1}
+
+## We'll be in touch when we are recruiting for our studies {.centerh2}
+
+## You can always reach out to us directly if you have any inquiries: [contact us](ContactUs.qmd) {.centerh2}
+

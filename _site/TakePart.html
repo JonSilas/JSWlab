@@ -171,7 +171,7 @@ gtag('config', 'G-65T2SH9GXD', { 'anonymize_ip': true});
 
 <style>
   body {
-  background-image: url("images/eeg.jpg");
+  background-image: url("images/eeg.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -442,7 +442,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp("https:\/\/jswlab\.co\.uk");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
