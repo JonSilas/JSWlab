@@ -5,6 +5,9 @@ Google Scholar links: [Alex](https://scholar.google.co.uk/citations?user=heLtmbI
 
 ## Papers and chapters
 
+### 2024
+**Ward, E. V.** (2024). Age differences in priming as a function of processing at encoding. Consciousness and Cognition, 117, 103626.<https://doi.org/10.1016/j.concog.2023.103626>
+
 ### 2023
 
 **Jones, A.**, Gandhi, V., Mahiddine, A. Y., & Huyck, C. (2023). Bridging Neuroscience and Robotics: Spiking Neural Networks in Action. Sensors, 23(21), 8880.<https://doi.org/10.3390/s23218880>

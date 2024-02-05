@@ -1,6 +1,17 @@
 **Click the image to access the resource**  
 
-:::{layout-ncol=3}
+:::{.columns}
 
+::: {.column width="40%"}
 [![](images/Dbee.png)](https://jonsilas.github.io/PSY4061/)
+:::
+
+::: {.column width="20%"}
+
+:::
+
+::: {.column width="40%"}
+[![](images/EEGanalysis.jpg)](https://jonsilas.github.io/EEGanalysis/)
+:::
+
 ::: 
