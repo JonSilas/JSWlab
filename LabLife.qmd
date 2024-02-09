@@ -2,6 +2,8 @@ Some random pictures of #LabLife collected over the years.
 
 ::: {layout-ncol="3"}
 
+![Wayne is part machine... we think](lablife/wayne+machine.jpg)
+
 ![Lab celebrations Xmas 2023](lablife/xmas23.jpg)
 
 
