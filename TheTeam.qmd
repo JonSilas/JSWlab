@@ -45,7 +45,7 @@ Studying tactile perception in virtual reality.
 ![Armita Karami](images/Armita.jpeg){fig-align="left" width="100"}
 
 
-![Annie Lawerence](images/annie.png){fig-align="left" width="100"}
+![Annie Lawrence](images/annie.png){fig-align="left" width="100"}
 
 
 Bobbie Gallagher
