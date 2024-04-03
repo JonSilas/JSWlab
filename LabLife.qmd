@@ -2,6 +2,15 @@ Some random pictures of #LabLife collected over the years.
 
 ::: {layout-ncol="3"}
 
+
+![Lab night our to UCL, neuro + comedy = fun fun fun!](lablife/UCLouting.jpeg)
+
+
+
+![360 camera filming for VR experiment](lablife/VRfilming.jpg)
+
+![It's the taking part that counts (because we lost)](lablife/Facultyfootball.jpg)
+
 ![Pretty sure Wayne is part machine...](lablife/wayne+machine.jpg)
 
 ![Lab celebrations Xmas 2023](lablife/xmas23.jpg)
