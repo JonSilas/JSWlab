@@ -1,62 +1,66 @@
+---
+lightbox: true
+---
+
 Some random pictures of #LabLife collected over the years.
 
 ::: {layout-ncol="3"}
 
 
-![Lab night our to UCL, neuro + comedy = fun fun fun!](lablife/UCLouting.jpeg)
+![Lab night out to UCL, neuro + comedy = fun fun fun!](lablife/UCLouting.jpeg){group="my-gallery"}
 
 
 
-![360 camera filming for VR experiment](lablife/VRfilming.jpg)
+![360 camera filming for VR experiment](lablife/VRfilming.jpg){group="my-gallery"}
 
-![It's the taking part that counts (because we lost)](lablife/Facultyfootball.jpg)
+![It's the taking part that counts (because we lost)](lablife/Facultyfootball.jpg){group="my-gallery"}
 
-![Pretty sure Wayne is part machine...](lablife/wayne+machine.jpg)
+![Pretty sure Wayne is part machine...](lablife/wayne+machine.jpg){group="my-gallery"}
 
-![Lab celebrations Xmas 2023](lablife/xmas23.jpg)
+![Lab celebrations Xmas 2023](lablife/xmas23.jpg){group="my-gallery"}
 
 
-![Old and new friends at BACN 2023](lablife/dinner23.jpg)
+![Old and new friends at BACN 2023](lablife/dinner23.jpg){group="my-gallery"}
 
-![Dynamic duo - presenting at BACN 2023](lablife/BACN23.jpg)
+![Dynamic duo - presenting at BACN 2023](lablife/BACN23.jpg){group="my-gallery"}
 
-![Newest member of the lab! Congratulations Emma](lablife/baby.jpg)
+![Newest member of the lab! Congratulations Emma](lablife/baby.jpg){group="my-gallery"}
 
-![Science!](lablife/Science.jpeg)
+![Science!](lablife/Science.jpeg){group="my-gallery"}
 
-![Emma & Maryam at a conference](lablife/EmmaConf.jpeg)
+![Emma & Maryam at a conference](lablife/EmmaConf.jpeg){group="my-gallery"}
 
-![Piloting and more piloting](lablife/InLab.jpeg)
+![Piloting and more piloting](lablife/InLab.jpeg){group="my-gallery"}
 
-![Emma representing](lablife/EmmaPanel.jpeg)
+![Emma representing](lablife/EmmaPanel.jpeg){group="my-gallery"}
 
-![Lab lunch in the park cafe](lablife/LabLunch.jpeg)
+![Lab lunch in the park cafe](lablife/LabLunch.jpeg){group="my-gallery"}
 
-![Wayne's first paper!](lablife/tACSpaper.jpeg)
+![Wayne's first paper!](lablife/tACSpaper.jpeg){group="my-gallery"}
 
-![Training the new recruits](lablife/Lianne.jpeg)
+![Training the new recruits](lablife/Lianne.jpeg){group="my-gallery"}
 
-![Anual lab BBQ](lablife/labBBQ.jpeg)
+![Anual lab BBQ](lablife/labBBQ.jpeg){group="my-gallery"}
 
-![Catching up at BACN](lablife/BACNlunch.jpeg)
+![Catching up at BACN](lablife/BACNlunch.jpeg){group="my-gallery"}
 
-![The dynamic duo](lablife/JAtalk.jpeg)
+![The dynamic duo](lablife/JAtalk.jpeg){group="my-gallery"}
 
-![Putting the lab together](lablife/BuildingLab.jpg)
+![Putting the lab together](lablife/BuildingLab.jpg){group="my-gallery"}
 
-{{< video https://youtu.be/ZScEatoiN8M >}}
+{{< video https://youtu.be/ZScEatoiN8M >}} 
 
-![Xmas lab dinner](lablife/xmas.jpg)
+![Xmas lab dinner](lablife/xmas.jpg){group="my-gallery"}
 
-![Outside the local pub](lablife/JoannaEnida.jpg)
+![Outside the local pub](lablife/JoannaEnida.jpg){group="my-gallery"}
 
-![Why do they make us wear this?!](lablife/stupid.jpg)
+![Why do they make us wear this?!](lablife/stupid.jpg){group="my-gallery"}
 
-![Talk to the department](lablife/departmental.jpg)
+![Talk to the department](lablife/departmental.jpg){group="my-gallery"}
 
-![This is normal... right?](lablife/normal.jpg)
+![This is normal... right?](lablife/normal.jpg){group="my-gallery"}
 
-![Testing at the Science Museum](lablife/ScienceMuseum.jpg)
+![Testing at the Science Museum](lablife/ScienceMuseum.jpg){group="my-gallery"}
 
-![At CNS!](lablife/CNS.jpg)
+![At CNS!](lablife/CNS.jpg){group="my-gallery"}
 :::
