@@ -6,6 +6,15 @@ Some random pictures of #LabLife collected over the years.
 
 ::: {layout-ncol="3"}
 
+![Best attempt at attracting a new cohort... not sure it worked](lablife/openevent.jpg){group="my-gallery"}
+
+![Pint of Science - JSW lab representing](lablife/pint.jpg){group="my-gallery"}
+
+
+![Celebrating Bee and her amazing book!](lablife/BandMe.jpg){group="my-gallery"}
+
+![Training the new recruits](lablife/kids.jpg){group="my-gallery"}
+
 
 ![Lab night out to UCL, neuro + comedy = fun fun fun!](lablife/UCLouting.jpeg){group="my-gallery"}
 
