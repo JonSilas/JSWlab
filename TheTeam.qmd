@@ -2,14 +2,17 @@
 fig-cap-location: bottom
 ---
 
-## Staff members
+## The Team
+![](images/team.jpg)
+
+## Principle Investigators
 
 ::: {layout-ncol="3"}
-![Alex Jones](images/Alex.png)
+[![Alex Jones](images/Alex.png)](https://www.mdx.ac.uk/about-us/our-people/staff-directory/dr-alexander-jones/)
 
-![Jon Silas](images/Jon.png)
+[![Jon Silas](images/Jon.png)](https://www.mdx.ac.uk/about-us/our-people/staff-directory/dr-jon-silas/)
 
-![Emma Ward](images/Emma.png)
+[![Emma Ward](images/Emma.png)](https://www.mdx.ac.uk/about-us/our-people/staff-directory/dr-emma-ward/)
 :::
 
 ## PhD students
@@ -42,9 +45,6 @@ Studying tactile perception in virtual reality.
 
 ## Interns and Assistants
 
-![Armita Karami](images/Armita.jpeg){fig-align="left" width="100"}
-
-
 ![Annie Lawrence](images/annie.png){fig-align="left" width="100"}
 
 
@@ -53,6 +53,8 @@ Bobbie Gallagher
 
 
 ## Alumni
+
+Armita Karami (Undergraduate Research assistant)
 
 Maryam Al-Abdulla (PhD Memory and Ageing)
 
