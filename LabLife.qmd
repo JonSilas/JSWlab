@@ -6,6 +6,9 @@ Some random pictures of #LabLife collected over the years.
 
 ::: {layout-ncol="3"}
 
+![Not even the English summer can stop the lab BBQ 2024!](lablife/BBQ24.jpg){group="my-gallery"}
+
+
 ![Best attempt at attracting a new cohort... not sure it worked](lablife/openevent.jpg){group="my-gallery"}
 
 ![Pint of Science - JSW lab representing](lablife/pint.jpg){group="my-gallery"}
