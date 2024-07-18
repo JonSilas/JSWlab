@@ -6,6 +6,11 @@ Google Scholar links: [Alex](https://scholar.google.co.uk/citations?user=heLtmbI
 ## Papers and chapters
 
 ### 2024
+
+Korko, M., Bose, A., **Jones, A.**, Coulson, M., & de Mornay Davies, P. Do words compete as we speak? A systematic review of picture-word interference (PWI) studies investigating the nature of lexical selection. Psychology of Language and Communication, 28(1), 261-322.<https://doi.org/10.58734/plc-2024-0011>
+
+Townsend, P. H., **Jones, A.**, Patel, A. D., & Race, E. (2024). Rhythmic Temporal Cues Coordinate Cross-frequency Phase-amplitude Coupling during Memory Encoding. Journal of Cognitive Neuroscience, 1-17.<https://doi.org/10.1162/jocn_a_02217>
+
 **Ward, E. V.** (2024). Age differences in priming as a function of processing at encoding. Consciousness and Cognition, 117, 103626.<https://doi.org/10.1016/j.concog.2023.103626>
 
 Allegranti, B., & **Silas, J.** (2024). Capoeira in the Wake: Neurofeminism Moves with the Transgenerational. In Moving Kinship (pp. 245-287). Routledge. [ISBN 9780367464905](https://www.routledge.com/Moving-Kinship-Practicing-Feminist-Justice-in-a-More-than-Human-World/Allegranti/p/book/9780367464905)
