@@ -1,25 +1,26 @@
 ![](images/workshop.png)
 
-Alex and Jon run bespoke EEG workshops tailored to fit the needs of attendees. We've successfully run several in the past the details or which can be found below. We have broad experience in a number of EEG systems and analysis techniques.
+## Unlocking Insights, Driving Innovation
+
+At JSW Lab, we bring cutting-edge research and academic excellence to solve real-world problems. Our consultancy services are tailored to leverage our expertise in psychology and neuroscience to provide innovative solutions for businesses, marketing, educational institutions, and more.
+
+## Our Expertise
+
+-   **Behavioral Analysis**: Understanding consumer behavior, improving user experience, and enhancing employee engagement.
+-   **Cognitive Assessments**: Customisable tools for evaluating cognitive functions, useful in educational and clinical settings.
+-   **Neuroscience Research**: Applying neuroimaging and brain mapping techniques for product development and therapeutic interventions.
+-   **Data Analysis & Visualisation**: Advanced statistical analysis and data visualisation to drive decision-making.
+-   **Workshops and Training**: Customised EEG workshops tailored to fit the needs of attendees, covering various EEG systems and analysis techniques.
+
+## Workshops & Training 
+
+Our EEG workshops cover a range of systems including [Brain Products](https://www.brainproducts.com/index.php), [BioSemi](https://www.biosemi.com/), [Electrical Geodesics Inc. ](https://www.egi.com/), and [Neuroscan](http://compumedicsneuroscan.com/). We provide hands-on training in analysis software like BESA and Brain Vision Analyzer. Our workshops are highly praised for their professionalism and practical application.
+
+Our workshops are often bespoke and tailored to fit the needs of attendees. We've successfully run several in the past the details or which can be found below. We have broad experience in a number of EEG systems and analysis techniques.
 
 If you'd like us to run a workshop for your lab, group or company please [get in touch](ContactUs.qmd)
 
-## Expertise
-
-Between us we experience in using the following EEG systems for data collection:
-
--   [Brain Products](https://www.brainproducts.com/index.php)
--   [BioSemi](https://www.biosemi.com/)
--   [Electrical Geodesics Inc. ](https://www.egi.com/)
--   [Neuroscan](http://compumedicsneuroscan.com/)
-
-We are also have experience in the following analysis softwares:
-
--   [BESA](http://www.besa.de/)
--   [Brain Vision Analyzer ](http://www.brainproducts.com/downloads.php?kid=9)
--   Neuroscan -- Edit
-
-## Previous Workshop Example
+### Previous Workshop Example
 
 ![](images/workshop2019.png)
 
@@ -42,3 +43,12 @@ Dr William M Brown, Senior Lecturer in Psychology, University of Bedfordshire
 
 Paul Cavendish, Lab Manager
 :::
+## Why Choose Us?
+
+**Academic Rigor**: Our team comprises active and leading researchers in cognitive psychology and cognitive neuroscience.
+
+**Tailored Solutions**: We offer bespoke consultancy services designed to meet your specific needs and objectives.
+
+**Innovative Approaches**: We utilise the latest research methodologies and technologies to provide cutting-edge solutions.
+
+**Get in touch**: To learn more about how JSW Lab can support your organisation, [please contact us at](ContactUs.qmd).
