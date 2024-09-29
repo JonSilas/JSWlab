@@ -38,7 +38,7 @@ website:
         - href: poster.qmd
           text: Talks & Posters
       - href: Workshops.qmd
-        text: Workshops
+        text: Consultancy
       - href: Publications.qmd
         text: Publications        
       - href: ContactUs.qmd 

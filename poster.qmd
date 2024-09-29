@@ -13,8 +13,12 @@ Click the image to download a pdf of the poster.
 
 :::{layout=[30,-5,30,-5,30] layout-valign="top"}
 
+[![Temporal Duration Judgement of Intervals and Rhythms –an EEG study - BACN 2024](posters/AndersonBACN24.jpg)](posters/AndersonBACN24.pdf)
+
+[![Investigating tactile attention in adults with ADHD using EEG - BACN 2024](posters/TAkbarBACN24.jpg)](posters/TAkbarBACN24.pdf)
+
 [![Dissociating temporal position and rhythm – effects on memory encoding
-- A Registered Report](posters/Jones2023BACN.jpg)](posters/Jones2023BACN.pdf)
+- A Registered Report - BACN 2023](posters/Jones2023BACN.jpg)](posters/Jones2023BACN.pdf)
 
 [![Temporal and Spatial Attention Improve Recognition - BACN 2019](posters/Jones&Ward2019BACN.jpg)](posters/Jones&Ward2019BACN.pdf)
 
