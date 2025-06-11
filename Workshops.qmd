@@ -51,4 +51,4 @@ Paul Cavendish, Lab Manager
 
 **Innovative Approaches**: We utilise the latest research methodologies and technologies to provide cutting-edge solutions.
 
-**Get in touch**: To learn more about how JSW Lab can support your organisation, [please contact us at](ContactUs.qmd).
+**Get in touch**: To learn more about how JSW Lab can support your organisation, [please contact us](ContactUs.qmd).
