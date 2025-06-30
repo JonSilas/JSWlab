@@ -8,7 +8,7 @@ Or email [all three of us at once](mailto:a.j.jones@mdx.ac.uk;%20j.e.silas@mdx.a
 
 ![](images/Mdx.png){fig-align="center" height="400"}
 
-We are located at Middlesex Universty, The Burroughs, London NW4 4BT. [Information on travel](https://unihub.mdx.ac.uk/campus/hendon), if you are planning a visit.
+We are located at Middlesex Universty, The Burroughs, London NW4 4BT. [Information on travel](https://www.mdx.ac.uk/about-us/get-in-touch/directions-london/), if you are planning a visit.
 
 ```{r, echo=FALSE, warning=FALSE}
 #| column: screen
