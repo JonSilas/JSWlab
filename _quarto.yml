@@ -15,7 +15,9 @@ website:
       - icon: github
         href: https://github.com/JonSilas/JSWlab 
       - icon: mastodon
-        href: https://fediscience.org/@JSW_lab 
+        href: https://fediscience.org/@JSW_lab
+      - icon: instagram
+        href: https://www.instagram.com/jones.silas.ward.lab
     left:
       - text: "About"  
         menu: 
