@@ -3,6 +3,7 @@ fig-cap-location: bottom
 ---
 
 ## The Team
+
 ![](images/team.jpg)
 
 ## Principle Investigators
@@ -22,38 +23,35 @@ fig-cap-location: bottom
 
 **Wayne Anderson** \| Wayne is investigating the role of phase - in the brain and in the environment - and the role that phase plays in attention. Wayne is using a mixture of methods including non-invasive brain stimulation, EEG and behaviour.
 
-![Lola Zao-Sanders](images/Lola.png){fig-align="left" width="100"}
+![Shauna Murphy-Collins](images/shauna.jpg){fig-align="left" width="100"}
 
-**Lola Zao-Sanders** \| Lola is investigating embodied cognition and is particularly interested in the role of emobidied cognition in perspective taking. Lola is using a mixture of methods including non-invasive brain stimulation, EEG and behaviour.
+**Shauna Murphy-Collins** \| Shauna is exploring the impact of virtual reality on empathy learning in nursing students and will be using EEG and Virtual Reality. Shauna is taking an interdisciplinary approach and is also exploring perspectives using qualitative analysis.  
 
 ![Tasneem Akbar](images/Tasneem.jpg){fig-align="left" width="100"}
 
-**Tasneem Akbar** \| Tasneem is investigating tactile attetnion in ADHD populations, primarily using EEG and behavioural methods.
+**Tasneem Akbar** \| Tasneem is investigating tactile attention in ADHD populations, primarily using EEG and behavioural methods.
 :::
 
 ## MSc by Research Students
 
 ::: {layout="[20,80]"}
+![Annie Lawrence](images/annie.png){fig-align="left" width="100"}
 
-![Jennifer Chacon](images/Jennifer.png){fig-align="left" width="100"}
+Aiming to find novel approaches to disentangle functional distinct oscillatory activity in the brain that has overlapping frequency bandwidths. 
 
-Studying the role social media plays in affecting our attention.
-
-![Vanessa Simoes](images/Vanessa.jpeg){fig-align="left" width="100"}
-
-Studying tactile perception in virtual reality.
 :::
 
 ## Interns and Assistants
 
-![Annie Lawrence](images/annie.png){fig-align="left" width="100"}
+Sara Annunziata
 
-
-Bobbie Gallagher
-
-
+Fathima Aysha Faleel
 
 ## Alumni
+
+Jennifer Chacon Lopez (MSc by Research in Cognitive Neuroscience - social media and attention)
+
+Vanessa Amaral Lopes Simoes (MSc by Research in Cognitive Neuroscience - social cognition and VR) 
 
 Armita Karami (Undergraduate Research assistant)
 
