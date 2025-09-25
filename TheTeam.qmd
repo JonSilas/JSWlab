@@ -35,6 +35,7 @@ fig-cap-location: bottom
 ## MSc by Research Students
 
 ::: {layout="[20,80]"}
+
 ![Annie Lawrence](images/annie.png){fig-align="left" width="100"}
 
 Aiming to find novel approaches to disentangle functional distinct oscillatory activity in the brain that has overlapping frequency bandwidths. 
@@ -42,10 +43,17 @@ Aiming to find novel approaches to disentangle functional distinct oscillatory a
 :::
 
 ## Interns and Assistants
+::: {layout="[20,80]"}
 
-Sara Annunziata
+![Sara Annunziata](images/sara.jpg){fig-align="left" width="100"}
+
+BSc Psychology with Neuroscience final year student completing their dissertation in the lab and all-round EEG lab assistant. 
 
 Fathima Aysha Faleel
+
+BSc Psychology with Neuroscience final year student completing their dissertation in the lab and all-round NiBS lab assistant. 
+
+:::
 
 ## Alumni
 
