@@ -6,6 +6,8 @@ Some random pictures of #LabLife collected over the years.
 
 ::: {layout-ncol="3"}
 
+![Alex's draws the contents of his mind... student's are none the wiser](lablife/Alexs_mind.jpg){group="my-gallery"}
+
 ![Normal behaviour at Psychology graduation 2025](lablife/grad2025.jpg){group="my-gallery"}
 
 ![It's that time of year again - JSWlab BBQ 2025!](lablife/labBBQ2025.png){group="my-gallery"}
