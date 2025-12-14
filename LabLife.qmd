@@ -5,6 +5,12 @@ lightbox: true
 Some random pictures of #LabLife collected over the years.
 
 ::: {layout-ncol="3"}
+![Lab Xmas drinks 2025 - members + friends + alumni](lablife/LabXmas2025.jpg){group="my-gallery"}
+
+
+![Nothing says Xmas like JSWlab tree ornaments](lablife/TasStar.jpg){group="my-gallery"}
+
+
 
 ![Alex's draws the contents of his mind... student's are none the wiser](lablife/Alexs_mind.jpg){group="my-gallery"}
 

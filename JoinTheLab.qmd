@@ -1,14 +1,8 @@
-We welcome enquiries from anyone interested in cognitive neuroscience - irrespective of your academic background, if you have a particular interest there's usually a route into joining the lab. For all research degrees you will have to apply via the [Middlesex University research degree application process](https://www.mdx.ac.uk/study-with-us/postgraduate/apply-for-research-degrees).However, if you do want to apply for a research degree please [contact us](ContactUs.qmd) first and we can see if our research interest are compatible and make sure your time here is valuable. We have two research degree programmes that run from within the lab.
+We welcome enquiries from anyone interested in cognitive neuroscience - irrespective of your academic background, if you have a particular interest there's usually a route into joining the lab. For all research degrees you will have to apply via the [Middlesex University research degree application process](https://www.mdx.ac.uk/study-with-us/postgraduate/apply-for-research-degrees).However, if you do want to apply for a research degree please [contact us](ContactUs.qmd) first and we can see if our research interest are compatible and make sure your time here is valuable. 
 
 ::: {.callout-note appearance="minimal"}
 Make sure you [contact us](ContactUs.qmd) before applying for a research degree.
 :::
-
-## MSc By Research
-
-Our [MSc by research](https://www.mdx.ac.uk/courses/postgraduate/cognitive-neuroscience-research) pathway has been running for several years now. Many of our candidates go on to persue a careed in academia but some have used it as stepping stones in their careers in other sectors too. If you're confident you want to go on to complete a PhD in cognitive neuroscience and have only just completed your undergraduate (in psychology, neuroscience or related degree) - we think this programme is perfect for you.
-
-[![](images/MScRes.png)](https://www.mdx.ac.uk/courses/postgraduate/cognitive-neuroscience-research)
 
 ## PhD
 
