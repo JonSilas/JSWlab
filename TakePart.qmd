@@ -7,7 +7,7 @@ css: styles.css
 ```{=html}
 <style>
   body {
-  background-image: url("images/eeg.png");
+  background-image: url("images/eeg1.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
