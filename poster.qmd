@@ -13,22 +13,25 @@ Click the image to download a pdf of the poster.
 
 :::{layout=[30,-5,30,-5,30] layout-valign="top"}
 
-[![Temporal Tonic Pain Selectively Alters Mid-Latency Somatosensory Processing While Preserving Tactile Performance:An ERP Study Using the Cold Pressor Test - GNC Research Day 2025](posters/Ressin25.jpg)](posters/Ressin25.pdf)
+[![Investigating Brain Activity During Free Will & Attention - 
+Posters in Parliament 2026](posters/PiP Poster.jpg)](posters/PiP Poster.pdf){target="_blank"}
 
-[![Temporal Duration Judgement of Intervals and Rhythms –an EEG study - BACN 2024](posters/AndersonBACN24.jpg)](posters/AndersonBACN24.pdf)
+[![Temporal Tonic Pain Selectively Alters Mid-Latency Somatosensory Processing While Preserving Tactile Performance:An ERP Study Using the Cold Pressor Test - GNC Research Day 2025](posters/Ressin25.jpg)](posters/Ressin25.pdf){target="_blank"}
 
-[![Investigating tactile attention in adults with ADHD using EEG - BACN 2024](posters/TAkbarBACN24.jpg)](posters/TAkbarBACN24.pdf)
+[![Temporal Duration Judgement of Intervals and Rhythms –an EEG study - BACN 2024](posters/AndersonBACN24.jpg)](posters/AndersonBACN24.pdf){target="_blank"}
+
+[![Investigating tactile attention in adults with ADHD using EEG - BACN 2024](posters/TAkbarBACN24.jpg)](posters/TAkbarBACN24.pdf){target="_blank"}
 
 [![Dissociating temporal position and rhythm – effects on memory encoding
-- A Registered Report - BACN 2023](posters/Jones2023BACN.jpg)](posters/Jones2023BACN.pdf)
+- A Registered Report - BACN 2023](posters/Jones2023BACN.jpg)](posters/Jones2023BACN.pdf){target="_blank"}
 
-[![Temporal and Spatial Attention Improve Recognition - BACN 2019](posters/Jones&Ward2019BACN.jpg)](posters/Jones&Ward2019BACN.pdf)
+[![Temporal and Spatial Attention Improve Recognition - BACN 2019](posters/Jones&Ward2019BACN.jpg)](posters/Jones&Ward2019BACN.pdf){target="_blank"}
 
-[![Rhythmic encoding improves recognition memory - CNS 2019](posters/Jones&Ward2019CNS.jpg)](posters/Jones&Ward2019CNS.pdf)
+[![Rhythmic encoding improves recognition memory - CNS 2019](posters/Jones&Ward2019CNS.jpg)](posters/Jones&Ward2019CNS.pdf){target="_blank"}
 
-[![Successful Classification of Attentional Tasks by Power Modulations in the Alpha Frequency Bandwidth - CNS 2019](posters/Silas2019CNS.jpg)](posters/Silas2019CNS.pdf)
+[![Successful Classification of Attentional Tasks by Power Modulations in the Alpha Frequency Bandwidth - CNS 2019](posters/Silas2019CNS.jpg)](posters/Silas2019CNS.pdf){target="_blank"}
 
-[![Exploring the role of spatial attention in Movement simulation - CNS 2019](posters/SilasBACN2019.jpg)](posters/SilasBACN2019.pdf)
+[![Exploring the role of spatial attention in Movement simulation - CNS 2019](posters/SilasBACN2019.jpg)](posters/SilasBACN2019.pdf){target="_blank"}
 
-[![Responsivity of a human mirror neuron system to the transitivity of an action when the end result of a movement is visible but not when it is obscured - CNS 2018](posters/Silas2018CNS.jpg)](posters/Silas2018CNS.pdf)
+[![Responsivity of a human mirror neuron system to the transitivity of an action when the end result of a movement is visible but not when it is obscured - CNS 2018](posters/Silas2018CNS.jpg)](posters/Silas2018CNS.pdf){target="_blank"}
 ::: 
