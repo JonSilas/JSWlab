@@ -6,6 +6,9 @@ Some random pictures of #LabLife collected over the years.
 
 ::: {layout-ncol="3"}
 
+
+![Lab BBQ 2026 - old skool with the new!](lablife/bbq26.jpeg){group="my-gallery"}
+
 ![Annie representing in the Houses of Parliament!!](lablife/AnniePiP.jpeg){group="my-gallery"}
 
 ![Lab Xmas drinks 2025 - members + friends + alumni](lablife/LabXmas2025.jpg){group="my-gallery"}
