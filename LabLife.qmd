@@ -6,6 +6,8 @@ Some random pictures of #LabLife collected over the years.
 
 ::: {layout-ncol="3"}
 
+![Trans rights are human rights! (JSW @ London Pride 26)](lablife/pride26.jpg){group="my-gallery"}
+
 
 ![Lab BBQ 2026 - old skool with the new!](lablife/bbq26.jpeg){group="my-gallery"}
 
