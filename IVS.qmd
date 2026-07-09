@@ -1,0 +1,18 @@
+---
+title: "The Interoception in Voice Scale (IVS)"
+---
+\
+The Interoception in Voice Scale (IVS) is the first scale specifically designed to measure interoception related to voice processing. The IVS is a scale aimed at providing a tool for investigating the role of interoception in voice perception and we hope that the scale may be useful for future research and for speech and language therapists engaged in clinical work involving voice disorders. 
+\
+\
+
+::: {style="text-align: center; font-size: 1.5em;"}
+[Download the The Interoception in Voice Scale (IVS) with scoring instructions here](IVS/The Interoception in Voice Scale.pdf){target="_blank"}
+:::
+\
+\
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons Licence" style="border-width:0"/></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
+
+

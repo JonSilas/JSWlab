@@ -27,6 +27,8 @@ website:
             text: "#LabLife"
       - href: JoinTheLab.qmd
         text: Join
+      - href: IVS.qmd
+        text: IVS
       - href: TakePart.qmd
         text: Participate
       - text: "Resources"
