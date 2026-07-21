@@ -1,7 +1,10 @@
 ## Talks
 Click link to download pdf of slides.
 
-[Jon & Alex's talk to BACN - 2023 Spatial attention not affected by tACS: a registered report](talks/BACN23.pdf)
+[Jon's talk at EMF 2026 - Stimulating Brains Without Touching Them.](talks/EMF2026.pdf)
+You can also watch a recording of the talk [here](Videos.qmd#talks)
+
+[Jon & Alex's talk at BACN - 2023 Spatial attention not affected by tACS: a registered report](talks/BACN23.pdf)
 
 [Jon & Alex's talk to the University of the Third Age - 2022](talks/U3A2022.pdf) 
 
