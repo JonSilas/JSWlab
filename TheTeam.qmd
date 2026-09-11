@@ -2,9 +2,12 @@
 fig-cap-location: bottom
 ---
 
-## The Team
-
-![](images/team.jpg)
+::: {style="text-align: center; font-size: 1.0em;"}
+*"There is much obsession in academic circles about the ownership of ideas. Competition for academic regard leads individuals to have a desperate need to be seen as the "one" who first thought of an idea. In reality, ideas are always circulating. They are made new as we engage in internal critical reflection, internal conversations that give fresh expression to common thought."*
+\
+\
+- bell hooks
+:::
 
 ## Principle Investigators
 
