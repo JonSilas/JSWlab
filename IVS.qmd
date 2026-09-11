@@ -9,6 +9,12 @@ The Interoception in Voice Scale (IVS) is the first scale specifically designed 
 ::: {style="text-align: center; font-size: 1.5em;"}
 [Download the The Interoception in Voice Scale (IVS) with scoring instructions here](IVS/The Interoception in Voice Scale.pdf){target="_blank"}
 :::
+
+
+::: {style="text-align: center; font-size: 1.0em;"}
+[Access the Original Paper for The Interoception in Voice Scale (IVS) here](https://doi.org/10.1016/j.jvoice.2026.07.035){target="_blank"}
+:::
+
 \
 \
 
