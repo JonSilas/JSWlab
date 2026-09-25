@@ -3,8 +3,7 @@ fig-cap-location: bottom
 ---
 
 ::: {style="text-align: center; font-size: 1.0em;"}
-*"There is much obsession in academic circles about the ownership of ideas. Competition for academic regard leads individuals to have a desperate need to be seen as the "one" who first thought of an idea. In reality, ideas are always circulating. They are made new as we engage in internal critical reflection, internal conversations that give fresh expression to common thought."*
-\
+*"There is much obsession in academic circles about the ownership of ideas. Competition for academic regard leads individuals to have a desperate need to be seen as the "one" who first thought of an idea. In reality, ideas are always circulating. They are made new as we engage in internal critical reflection, internal conversations that give fresh expression to common thought."*\
 \
 - bell hooks
 :::
@@ -28,7 +27,7 @@ fig-cap-location: bottom
 
 ![Shauna Murphy-Collins](images/shauna.jpg){fig-align="left" width="100"}
 
-**Shauna Murphy-Collins** \| Shauna is exploring the impact of virtual reality on empathy learning in nursing students and will be using EEG and Virtual Reality. Shauna is taking an interdisciplinary approach and is also exploring perspectives using qualitative analysis.  
+**Shauna Murphy-Collins** \| Shauna is exploring the impact of virtual reality on empathy learning in nursing students and will be using EEG and Virtual Reality. Shauna is taking an interdisciplinary approach and is also exploring perspectives using qualitative analysis.
 
 ![Tasneem Akbar](images/Tasneem.jpg){fig-align="left" width="100"}
 
@@ -38,31 +37,34 @@ fig-cap-location: bottom
 ## MSc by Research Students
 
 ::: {layout="[20,80]"}
-
 ![Annie Lawrence](images/annie.png){fig-align="left" width="100"}
 
-Aiming to find novel approaches to disentangle functional distinct oscillatory activity in the brain that has overlapping frequency bandwidths. 
-
-:::
-
-## Interns and Assistants
-::: {layout="[20,80]"}
+Aiming to find novel approaches to disentangle functional distinct oscillatory activity in the brain that has overlapping frequency bandwidths.
 
 ![Sara Annunziata](images/sara.jpg){fig-align="left" width="100"}
 
-BSc Psychology with Neuroscience final year student completing their dissertation in the lab and all-round EEG lab assistant. 
+Exploring cognition in spinal cord injury patients
 
-Fathima Aysha Faleel
+![Elissia Farrah](images/Elissia.jpg){fig-align="left" width="100"}
 
-BSc Psychology with Neuroscience final year student completing their dissertation in the lab and all-round NiBS lab assistant. 
+Looking at the interaction between attention and embodied social cognition
+:::
 
+## Interns and Assistants
+
+::: {layout="[20,80]"}
+Lisa Pinto
+
+Hiba Mahmoudi
 :::
 
 ## Alumni
 
+Fathima Aysha Faleel (Undergraduate Research assistant)
+
 Jennifer Chacon Lopez (MSc by Research in Cognitive Neuroscience - social media and attention)
 
-Vanessa Amaral Lopes Simoes (MSc by Research in Cognitive Neuroscience - social cognition and VR) 
+Vanessa Amaral Lopes Simoes (MSc by Research in Cognitive Neuroscience - social cognition and VR)
 
 Armita Karami (Undergraduate Research assistant)
 
