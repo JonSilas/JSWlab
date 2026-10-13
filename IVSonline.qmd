@@ -1,0 +1,231 @@
+---
+title: "The Interoception in Voice Scale (IVS)"
+format: 
+  html:
+    include-in-header: 
+      - text: <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+---
+
+<p id="ivs-instructions">Please read the sentences below and select your answer. There is no right or wrong.</p>
+
+```{=html}
+<div id="ivs-container">
+<form id="ivs-form">
+<div id="questions-container"></div>
+<button type="submit" style="margin-top: 20px; padding: 10px 20px; font-weight: bold; cursor: pointer; background-color: #0055ff; color: #ffffff; border: none; border-radius: 5px;">Submit</button>
+</form>
+</div>
+
+<div id="score-display" style="display: none; margin-top: 20px; padding: 20px; background-color: #222; color: #fff; border-left: 5px solid #0055ff; border-radius: 5px;">
+<h3 style="margin-bottom: 25px;">Your IVS Profile</h3>
+
+<div style="margin-bottom: 30px;">
+<div style="margin-bottom: 4px;">
+<strong>Emotional Voice Awareness (EA)</strong>
+<div style="font-weight: bold; margin-top: 2px; color: #fff;">Score: <span id="score-ea"></span></div>
+</div>
+<div style="font-size: 0.85em; color: #ccc; margin-bottom: 10px;">Awareness of emotional modulation in one’s voice</div>
+<div style="width: 100%; background: #444; border-radius: 5px; overflow: hidden;">
+<div id="bar-ea" style="height: 24px; background: #0055ff; width: 0%; transition: width 1.5s ease-in-out;"></div>
+</div>
+<div style="width: 100%; font-size: 0.75em; color: #888; margin-top: 4px; position: relative; height: 15px;">
+<span style="position: absolute; left: 0;">0%</span>
+<span style="position: absolute; right: 0;">100%</span>
+</div>
+</div>
+
+<div style="margin-bottom: 30px;">
+<div style="margin-bottom: 4px;">
+<strong>Physical Voice Awareness (PA)</strong>
+<div style="font-weight: bold; margin-top: 2px; color: #fff;">Score: <span id="score-pa"></span></div>
+</div>
+<div style="font-size: 0.85em; color: #ccc; margin-bottom: 10px;">Awareness of acoustic and physiological properties of the voice</div>
+<div style="width: 100%; background: #444; border-radius: 5px; overflow: hidden;">
+<div id="bar-pa" style="height: 24px; background: #0099ff; width: 0%; transition: width 1.5s ease-in-out;"></div>
+</div>
+<div style="width: 100%; font-size: 0.75em; color: #888; margin-top: 4px; position: relative; height: 15px;">
+<span style="position: absolute; left: 0;">0%</span>
+<span style="position: absolute; right: 0;">100%</span>
+</div>
+</div>
+
+<div style="margin-bottom: 30px;">
+<div style="margin-bottom: 4px;">
+<strong>Voice-related Concern (VC)</strong>
+<div style="font-weight: bold; margin-top: 2px; color: #fff;">Score: <span id="score-vc"></span></div>
+</div>
+<div style="font-size: 0.85em; color: #ccc; margin-bottom: 10px;">Tendency to experience worry or emotional reactions in response to vocal discomfort or throat sensations</div>
+<div style="width: 100%; background: #444; border-radius: 5px; overflow: hidden;">
+<div id="bar-vc" style="height: 24px; background: #00ccff; width: 0%; transition: width 1.5s ease-in-out;"></div>
+</div>
+<div style="width: 100%; font-size: 0.75em; color: #888; margin-top: 4px; position: relative; height: 15px;">
+<span style="position: absolute; left: 0;">0%</span>
+<span style="position: absolute; right: 0;">100%</span>
+</div>
+</div>
+
+<div style="margin-bottom: 30px;">
+<div style="margin-bottom: 4px;">
+<strong>Voice-related Attention (VA)</strong>
+<div style="font-weight: bold; margin-top: 2px; color: #fff;">Score: <span id="score-va"></span></div>
+</div>
+<div style="font-size: 0.85em; color: #ccc; margin-bottom: 10px;">Capacity to monitor voice-related cues such as posture, breathing, and vocal signals during communication</div>
+<div style="width: 100%; background: #444; border-radius: 5px; overflow: hidden;">
+<div id="bar-va" style="height: 24px; background: #00ffcc; width: 0%; transition: width 1.5s ease-in-out;"></div>
+</div>
+<div style="width: 100%; font-size: 0.75em; color: #888; margin-top: 4px; position: relative; height: 15px;">
+<span style="position: absolute; left: 0;">0%</span>
+<span style="position: absolute; right: 0;">100%</span>
+</div>
+</div>
+
+<button id="download-btn" type="button" style="margin-top: 10px; padding: 10px 20px; font-weight: bold; cursor: pointer; background-color: #28a745; color: #ffffff; border: none; border-radius: 5px;">Download Results as Image</button>
+</div>
+
+<script>
+const questions = [
+  "I notice if my voice changes with different emotions",
+  "I notice how my voice changes when I speak in different situations",
+  "I can tell I am angry by the sound of my voice",
+  "I can tell if I am happy by the sound of my voice",
+  "I can tell I am stressed/anxious by the sound of my voice",
+  "I notice when my voice sounds husky",
+  "I notice when my voice sounds rough",
+  "I notice when my voice sounds breathy",
+  "I notice when my voice sounds weak",
+  "I notice when my voice feels strained",
+  "I get worried if I feel pain/discomfort in my throat",
+  "When my voice feels uncomfortable, it dominates my attention",
+  "I get upset when I feel pain/discomfort in my throat",
+  "I worry about my throat when it feels uncomfortable",
+  "I notice my posture when I am talking",
+  "I listen for clues from my voice to let me know what emotion I am feeling",
+  "I notice changes in my breathing over the day",
+  "I can continue to pay attention to my voice even when there is a lot happening around",
+  "I can pay attention to my voice even when my mind is racing"
+];
+
+const container = document.getElementById('questions-container');
+
+questions.forEach((q, index) => {
+  const qNum = index + 1;
+  const html = `
+<fieldset style="border: 1px solid #444; margin-bottom: 15px; padding: 15px; background: transparent; border-radius: 8px;">
+<legend style="font-weight: bold; margin-bottom: 8px; font-size: 1.0em;">${qNum}. ${q}</legend>
+<label style="margin-right: 15px; cursor: pointer; font-size: 0.95em;"><input type="radio" name="q${qNum}" value="0" required> 0 (Never)</label>
+<label style="margin-right: 15px; cursor: pointer; font-size: 0.95em;"><input type="radio" name="q${qNum}" value="1"> 1 (Occasionally)</label>
+<label style="margin-right: 15px; cursor: pointer; font-size: 0.95em;"><input type="radio" name="q${qNum}" value="2"> 2 (Sometimes)</label>
+<label style="margin-right: 15px; cursor: pointer; font-size: 0.95em;"><input type="radio" name="q${qNum}" value="3"> 3 (Often)</label>
+<label style="margin-right: 15px; cursor: pointer; font-size: 0.95em;"><input type="radio" name="q${qNum}" value="4"> 4 (Always)</label>
+</fieldset>
+  `;
+  container.insertAdjacentHTML('beforeend', html);
+});
+
+document.getElementById('ivs-form').addEventListener('submit', function(e) {
+  e.preventDefault();
+
+  const dataPayload = {};
+  for (let i = 1; i <= 19; i++) {
+    dataPayload[`q${i}`] = parseInt(document.querySelector(`input[name="q${i}"]:checked`).value);
+  }
+
+  const ea = (dataPayload.q1 + dataPayload.q2 + dataPayload.q3 + dataPayload.q4 + dataPayload.q5) / 5;
+  const pa = (dataPayload.q6 + dataPayload.q7 + dataPayload.q8 + dataPayload.q9 + dataPayload.q10) / 5;
+  const vc = (dataPayload.q11 + dataPayload.q12 + dataPayload.q13 + dataPayload.q14) / 4;
+  const va = (dataPayload.q15 + dataPayload.q16 + dataPayload.q17 + dataPayload.q18 + dataPayload.q19) / 5;
+
+  dataPayload.ea = ea;
+  dataPayload.pa = pa;
+  dataPayload.vc = vc;
+  dataPayload.va = va;
+
+  document.getElementById('ivs-instructions').style.display = 'none';
+  document.getElementById('ivs-form').style.display = 'none';
+  document.getElementById('score-display').style.display = 'block';
+  
+  document.getElementById('score-ea').innerText = ea.toFixed(2) + " out of 4";
+  document.getElementById('score-pa').innerText = pa.toFixed(2) + " out of 4";
+  document.getElementById('score-vc').innerText = vc.toFixed(2) + " out of 4";
+  document.getElementById('score-va').innerText = va.toFixed(2) + " out of 4";
+
+  // Tiny delay to let the display: block render before animating the widths
+  setTimeout(() => {
+    document.getElementById('bar-ea').style.width = (ea / 4 * 100) + "%";
+    document.getElementById('bar-pa').style.width = (pa / 4 * 100) + "%";
+    document.getElementById('bar-vc').style.width = (vc / 4 * 100) + "%";
+    document.getElementById('bar-va').style.width = (va / 4 * 100) + "%";
+  }, 50);
+
+  const googleAppScriptURL = 'https://script.google.com/macros/s/AKfycbzNam3txAbgy73-c4SZTPgUfVnqbevmkTplErZ0XG68SGQBmo5wCASOZLJijkWYR5usDA/exec'; // <-- PASTE YOUR URL HERE
+
+  fetch(googleAppScriptURL, {
+    method: 'POST',
+    body: JSON.stringify(dataPayload),
+    headers: { 'Content-Type': 'text/plain;charset=utf-8' }
+  }).then(response => {
+    console.log("Data saved.");
+  }).catch(error => console.error("Error:", error));
+});
+
+document.getElementById('download-btn').addEventListener('click', function() {
+  const btn = this;
+  const originalText = btn.innerHTML;
+  
+  if (typeof html2canvas === 'undefined') {
+    alert("Image generation requires a standard web browser. Please click 'Show in new window' to open this page in Chrome, Firefox, or Safari.");
+    return;
+  }
+
+  btn.innerHTML = 'Generating Image...';
+  btn.style.opacity = '0.7';
+  btn.style.cursor = 'wait';
+
+  // Temporarily strip the CSS transitions from the bars so html2canvas doesn't hang
+  const bars = ['bar-ea', 'bar-pa', 'bar-vc', 'bar-va'];
+  bars.forEach(id => document.getElementById(id).style.transition = 'none');
+
+  // Add a tiny timeout to ensure the browser registers the transition removal
+  setTimeout(() => {
+    try {
+      btn.style.display = 'none'; 
+      
+      html2canvas(document.getElementById('score-display'), {
+        backgroundColor: '#222',
+        scale: 2 
+      }).then(canvas => {
+        const link = document.createElement('a');
+        link.download = 'IVS_Profile.png';
+        link.href = canvas.toDataURL('image/png');
+        link.click();
+        
+        // Restore button and transitions
+        btn.style.display = 'inline-block';
+        btn.innerHTML = originalText;
+        btn.style.opacity = '1';
+        btn.style.cursor = 'pointer';
+        bars.forEach(id => document.getElementById(id).style.transition = 'width 1.5s ease-in-out');
+        
+      }).catch(err => {
+        console.error("Canvas generation error:", err);
+        // Restore button and transitions
+        btn.style.display = 'inline-block';
+        btn.innerHTML = originalText;
+        btn.style.opacity = '1';
+        btn.style.cursor = 'pointer';
+        bars.forEach(id => document.getElementById(id).style.transition = 'width 1.5s ease-in-out');
+        alert("There was an issue generating the image. Please try again.");
+      });
+    } catch(err) {
+      console.error("Execution error:", err);
+      // Restore button and transitions
+      btn.style.display = 'inline-block';
+      btn.innerHTML = originalText;
+      btn.style.opacity = '1';
+      btn.style.cursor = 'pointer';
+      bars.forEach(id => document.getElementById(id).style.transition = 'width 1.5s ease-in-out');
+      alert("An unexpected error occurred.");
+    }
+  }, 50);
+});
+</script>
